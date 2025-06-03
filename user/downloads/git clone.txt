@@ -1,0 +1,1 @@
+to install something you can use git clone or put script in this folder

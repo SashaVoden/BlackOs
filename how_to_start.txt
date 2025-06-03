@@ -1,0 +1,1 @@
+to start this script you must python blackos.py
